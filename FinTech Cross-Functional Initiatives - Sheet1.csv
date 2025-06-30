@@ -1,0 +1,4 @@
+Initative Name,Primary JIRA Project,Current Status,Primary Stakeholder,Secondary JIRA Projects,Secondary Stakeholders
+API Revamp,APIRevamp,🟡 At Risk,Shannon King,Integrations,Byron Berry
+Infrastructure Migration,InfraMigration,🟢 On Track,Alison Krause,SecPlat,Jerry Atkinson
+Month-End Close UI Component,UserExperienceUpgrade,🔴 Delayed,John Candy,UIPlat,Rick James

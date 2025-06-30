@@ -1,0 +1,51 @@
+Ticket ID,Project,Status,Assignee,Created Date,Last Updated,Cycle Time (days),Latest Comment,Risk Flag
+INF-471,InfraMigration,In Progress,Charlie,2025-06-08,2025-06-13,,Blocked by unresolved ticket.,High
+API-450,APIRevamp,Blocked,Charlie,2025-05-28,2025-06-06,,Work paused due to scope change.,High
+DAT-218,DataPlatform,Done,Eve,2025-03-27,2025-04-04,8,Waiting for review.,High
+SEC-479,SecurityHardening,In Progress,Charlie,2025-06-04,2025-06-10,,Dependency issue with backend team.,High
+DAT-210,DataPlatform,Done,Bob,2025-04-16,2025-04-19,3,Work paused due to scope change.,High
+API-738,APIRevamp,In Progress,Dana,2025-04-09,2025-04-11,,Work paused due to scope change.,Medium
+INF-755,InfraMigration,Blocked,Bob,2025-06-08,2025-06-16,,Testing in progress.,High
+INF-327,InfraMigration,Blocked,Charlie,2025-06-17,2025-06-26,,Waiting for review.,High
+API-526,APIRevamp,Done,Alice,2025-04-30,2025-05-10,10,Blocked by unresolved ticket.,Medium
+DAT-942,DataPlatform,To Do,Charlie,2025-05-16,2025-05-17,,Dependency issue with backend team.,High
+DAT-959,DataPlatform,In Review,Frank,2025-04-16,2025-04-25,,Work paused due to scope change.,Medium
+INF-429,InfraMigration,Done,Alice,2025-04-29,2025-04-30,1,Work paused due to scope change.,Low
+INF-647,InfraMigration,Done,Eve,2025-05-17,2025-05-26,9,No blockers currently.,Medium
+API-224,APIRevamp,In Review,Bob,2025-06-09,2025-06-13,,Work paused due to scope change.,Medium
+USE-538,UserExperienceUpgrade,Blocked,Charlie,2025-04-21,2025-04-26,,Waiting for review.,High
+API-654,APIRevamp,To Do,Charlie,2025-06-10,2025-06-17,,Dependency issue with backend team.,High
+DAT-727,DataPlatform,Blocked,Eve,2025-05-14,2025-05-23,,Work paused due to scope change.,High
+USE-326,UserExperienceUpgrade,In Progress,Frank,2025-04-12,2025-04-13,,Testing in progress.,Medium
+USE-206,UserExperienceUpgrade,In Review,Frank,2025-05-01,2025-05-05,,Work paused due to scope change.,Low
+INF-307,InfraMigration,Blocked,Bob,2025-05-18,2025-05-24,,Waiting for review.,High
+DAT-754,DataPlatform,Blocked,Eve,2025-04-08,2025-04-14,,Blocked by unresolved ticket.,High
+SEC-471,SecurityHardening,Done,Alice,2025-04-03,2025-04-11,8,Dependency issue with backend team.,High
+INF-866,InfraMigration,In Progress,Dana,2025-04-23,2025-04-26,,Dependency issue with backend team.,High
+DAT-775,DataPlatform,Done,Charlie,2025-06-05,2025-06-12,7,Testing in progress.,Low
+SEC-826,SecurityHardening,In Progress,Alice,2025-04-25,2025-04-27,,Blocked by unresolved ticket.,None
+API-188,APIRevamp,Done,Bob,2025-05-04,2025-05-07,3,Dependency issue with backend team.,High
+API-131,APIRevamp,In Review,Bob,2025-03-25,2025-03-28,,Testing in progress.,Medium
+INF-782,InfraMigration,In Progress,Alice,2025-06-11,2025-06-12,,Work paused due to scope change.,None
+SEC-532,SecurityHardening,In Progress,Eve,2025-05-06,2025-05-13,,Blocked by unresolved ticket.,Low
+API-171,APIRevamp,Done,Charlie,2025-06-09,2025-06-15,6,Testing in progress.,High
+DAT-435,DataPlatform,In Progress,Eve,2025-06-03,2025-06-08,,Work paused due to scope change.,High
+USE-284,UserExperienceUpgrade,Blocked,Eve,2025-05-15,2025-05-17,,Work paused due to scope change.,High
+USE-598,UserExperienceUpgrade,In Progress,Dana,2025-06-14,2025-06-21,,Dependency issue with backend team.,High
+INF-285,InfraMigration,In Review,Bob,2025-05-09,2025-05-13,,Blocked by unresolved ticket.,Low
+SEC-412,SecurityHardening,Done,Bob,2025-04-28,2025-04-29,1,No blockers currently.,Low
+INF-277,InfraMigration,In Review,Frank,2025-03-30,2025-04-06,,Work paused due to scope change.,None
+INF-940,InfraMigration,Done,Eve,2025-06-14,2025-06-20,6,Dependency issue with backend team.,High
+INF-509,InfraMigration,To Do,Eve,2025-05-25,2025-06-02,,Waiting for review.,Low
+INF-375,InfraMigration,Blocked,Dana,2025-05-11,2025-05-13,,Dependency issue with backend team.,High
+USE-611,UserExperienceUpgrade,In Review,Dana,2025-04-13,2025-04-17,,Waiting for review.,High
+INF-819,InfraMigration,Done,Frank,2025-05-12,2025-05-17,5,Blocked by unresolved ticket.,Low
+DAT-437,DataPlatform,Done,Charlie,2025-04-04,2025-04-08,4,No blockers currently.,High
+INF-120,InfraMigration,Done,Bob,2025-05-06,2025-05-11,5,Blocked by unresolved ticket.,Low
+INF-529,InfraMigration,To Do,Bob,2025-04-14,2025-04-18,,Blocked by unresolved ticket.,High
+SEC-235,SecurityHardening,In Progress,Frank,2025-05-10,2025-05-19,,Blocked by unresolved ticket.,Low
+USE-102,UserExperienceUpgrade,Blocked,Frank,2025-05-17,2025-05-24,,No blockers currently.,High
+USE-823,UserExperienceUpgrade,In Review,Bob,2025-05-10,2025-05-17,,Testing in progress.,None
+SEC-505,SecurityHardening,Blocked,Dana,2025-05-29,2025-06-07,,No blockers currently.,High
+SEC-857,SecurityHardening,Done,Alice,2025-06-02,2025-06-09,7,Blocked by unresolved ticket.,Medium
+INF-507,InfraMigration,Done,Alice,2025-05-29,2025-06-01,3,Dependency issue with backend team.,High
